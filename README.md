@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Deven and I'm a new Software Developer, from Orlando,Fl </h2>
+<h2 align="left">Hi 👋! My name is Deven Patel and I'm a Software Developer, from Orlando, Fl</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://avatars.githubusercontent.com/u/122069890?v=4)"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/122069890?v=4"  />
 
 ###
 
@@ -31,12 +31,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
