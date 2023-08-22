@@ -5,7 +5,7 @@
 <!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/122069890?v=4"  /> -->
 
 # 💫 About Me:
-I'm currently learning Full Stack MERN
+I'm currently learning Full Stack Python
 
 
 ## 🌐 Socials:
@@ -20,7 +20,7 @@ I'm currently learning Full Stack MERN
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DevenPatel19&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
