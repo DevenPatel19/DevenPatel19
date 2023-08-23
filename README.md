@@ -5,7 +5,7 @@
 <!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/122069890?v=4"  /> -->
 
 # 💫 About Me:
-I'm currently learning Full Stack Python
+I'm currently working learning Full Stack Python and preparing to learn the MERN stack
 
 
 ## 🌐 Socials:
