@@ -19,8 +19,6 @@ I'm currently working on learning the MERN Stack. React is fun!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevenPatel19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevenPatel19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevenPatel19&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DevenPatel19&limit=5&theme=dracula&combine_all_yearly_contributions=true)
