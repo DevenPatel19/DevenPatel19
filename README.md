@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Deven Patel and I'm a Software Developer, from Orlando, Fl</h2>
+<h2 align="left">Hi 👋! My name is Deven Patel and I'm a Software Developer, from Orlando, FL</h2>
 
 ###
 
