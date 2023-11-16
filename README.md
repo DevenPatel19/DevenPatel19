@@ -56,6 +56,14 @@ I am a Junior Full Stack Developer from Orlando, Fl. I started my professional w
 		</tr>
 	</table>
 </div>
+# 📊 My Work:
+
+### [NuTube](https://magenta-sprinkles-cdccc7.netlify.app/)
+A fun exercise in using the Youtube V3 api via RapidAPI.com. Front End was completed using React.  
+
+### [EPM]()
+A Full Stack Java Spring Boot Applciation showing a basic Front End work done with JSP and backend coding from basic CRUD to implementation of Many-to-Many (N:M) relationship.
+
 
 # 📊 GitHub Stats:
 
