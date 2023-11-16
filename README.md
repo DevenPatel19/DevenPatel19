@@ -46,9 +46,9 @@ I am a Junior Full Stack Developer from Orlando, Fl. I started my professional w
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code></td>
 		</tr>
 		<tr > 
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code></td>
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
@@ -60,7 +60,7 @@ I am a Junior Full Stack Developer from Orlando, Fl. I started my professional w
 ### [NuTube](https://magenta-sprinkles-cdccc7.netlify.app/)
 A fun exercise in using the Youtube V3 api via RapidAPI.com. Front End was completed using React.  
 
-### [EPM]()
+### [EPM](https://github.com/DevenPatel19/Employee-Manager-Project)
 A Full Stack Java Spring Boot Applciation showing a basic Front End work done with JSP and backend coding from basic CRUD to implementation of Many-to-Many (N:M) relationship.
 
 
