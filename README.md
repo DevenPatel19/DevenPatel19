@@ -5,7 +5,7 @@
 <!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/122069890?v=4"  /> -->
 
 # 💫 About Me:
-I am a Junior Full Stack Developer from Orlando, Fl. I started my professional work in Collateral Lending my final role being a Mortgage Underwriter. I have transistioned into Software Development via a Coding bootcamp after a lifetime of tinkering. I have excellent skills in working in time critical pressure situations as well as productive interpersonal communication. Welcome to my GitHub profile!
+I am a Developer from Orlando, Fl. I started my professional work in Collateral Lending my final role being a Mortgage Underwriter. I have transistioned into Software Development via a Coding bootcamp after a lifetime of tinkering. I have excellent skills in working in time critical pressure situations as well as productive interpersonal communication. Welcome to my GitHub profile!
 
 <p align='center'>
   <a href'' > My Resume</a>
