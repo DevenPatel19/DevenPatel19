@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I have 18 months of freelancing experience as a software developer, delivering projects with focus on frontend and full-stack technologies.  
+I have 22 months of freelancing experience as a software developer, delivering projects with focus on frontend and full-stack technologies.  
 Currently, I am pursuing a Bachelor's degree in Computer Science to deepen my technical expertise and advance my career.  
 I enjoy solving complex problems, building user-friendly web applications, and continuously learning new technologies.
 
