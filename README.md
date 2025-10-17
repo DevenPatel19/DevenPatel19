@@ -45,9 +45,9 @@ I enjoy solving complex problems, building user-friendly web applications, and c
 
 ## 📫 How to Reach Me
 
-- Email: [deven.h.j.patel@gmail.com](mailto:deven.h.j.patel@gmail.com)  
-- LinkedIn: [linkedin.com/in/devenhjpatel](https://www.linkedin.com/in/devenhjpatel/)  
-- Medium: [medium.com/@deven.h.j.patel](https://medium.com/@deven.h.j.patel)  
+- Email: [Email](mailto:deven.h.j.patel@gmail.com)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/devenhjpatel/)  
+- Medium: [Medium](https://medium.com/@deven.h.j.patel)  
 
 ---
 
