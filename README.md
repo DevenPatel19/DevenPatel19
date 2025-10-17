@@ -45,10 +45,9 @@ I enjoy solving complex problems, building user-friendly web applications, and c
 
 ## 📫 How to Reach Me
 
-- Email: [📧](mailto:deven.h.j.patel@gmail.com)  
-- LinkedIn: [[LinkedinGIF](https://github.com/user-attachments/assets/35de3fce-06ba-4c37-b1d9-e16d650a28fa | width=100)
-](https://www.linkedin.com/in/devenhjpatel/)  
-- Medium: [Ⓜ️](https://medium.com/@deven.h.j.patel)  
+- Email: <a href="mailto:deven.h.j.patel@gmail.com" style="font-size: 40px; line-height: 40px; vertical-align: middle;">📧</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/devenhjpatel/"><img src="https://github.com/user-attachments/assets/35de3fce-06ba-4c37-b1d9-e16d650a28fa" alt="LinkedIn" width="40" style="vertical-align: middle;"></a>
+- Medium: <a href="https://medium.com/@deven.h.j.patel" style="font-size: 40px; line-height: 40px; vertical-align: middle;">Ⓜ️</a>
 
 ---
 
