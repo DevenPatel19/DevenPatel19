@@ -1,169 +1,100 @@
-<h1 align="center">Hi 👋, I'm Deven Patel</h1>
-<h3 align="center">A passionate Frontend Developer based in Seattle.</h3>
+<h1 align="center">👋 Hi, I'm Deven Patel</h1>
+<h3 align="center">Full-Stack Developer | Seattle, WA</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devenpatel19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://portfolio-app-sigma-swart-49.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-blue?style=for-the-badge" alt="Portfolio Badge" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devenpatel19" alt="GitHub Trophy" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=devenpatel19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I have 22 months of freelancing experience as a software developer, delivering projects with focus on frontend and full-stack technologies.  
-Currently, I am pursuing a Bachelor's degree in Computer Science to deepen my technical expertise and advance my career.  
-I enjoy solving complex problems, building user-friendly web applications, and continuously learning new technologies.
+I’m a former **mortgage operations leader turned software developer**, passionate about solving real-world business problems through technology.  
+With over 10 years of experience in operations and 22 months of freelancing as a developer, I bring a unique mix of **strategic insight** and **technical execution**.  
+
+I build tools that streamline workflows, automate repetitive tasks, and empower teams—using modern stacks like **Next.js**, **TypeScript**, **Spring Boot**, and **Python/Flask**.
+
+💻 Always building | 🧠 Always learning | 🤝 Always collaborating  
+
+> 🌐 Explore my work: [https://portfolio-app-sigma-swart-49.vercel.app/](https://portfolio-app-sigma-swart-49.vercel.app/)
 
 ---
 
-## 🔭 Current Work & Projects
+## 📌 Featured Projects
 
-- Working on [SMBCore](https://github.com/DevenPatel19/store) — a full-stack e-commerce platform.  
-- Collaborating on [Therawizard](https://github.com/DevenPatel19/therawizard) — a mental health support app.  
-- Seeking help with [Custom 3D Modeling Commission Store (E-Commerce Store)](https://github.com/DevenPatel19/store).
+### 🧭 [Seattle Tech Insights Dashboard](https://seattle-tech-dashboard-ziwd.vercel.app/)
+Real-time analytics dashboard visualizing Seattle’s tech job market.  
+Built with **Next.js**, **Recharts**, and **Tailwind CSS** — integrates APIs for live job and salary data.  
+
+<p align="center">
+  <img src="https://github.com/DevenPatel19/portfolio/blob/main/src/project-screenshots/dashboard.jpg" alt="Seattle Tech Dashboard" width="600"/>
+</p>
+
+---
+
+### 🪄 [Therawizard](https://github.com/DevenPatel19/therawizard)
+A gamified mindfulness app that transforms coping techniques into “magic casting” activities.  
+Built with **React**, **Flask**, and **MongoDB**, featuring secure authentication and animated user flows.
+
+---
+
+### 🛍️ [SMBCore Store](https://github.com/DevenPatel19/store)
+A full-stack e-commerce platform integrating **Spring Boot**, **React**, and **MySQL**.  
+Focuses on scalability, modular architecture, and modern UI/UX with reusable components.
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,python,flask,java,spring,js,html,css,nodejs,express,mongodb,mysql,aws,docker,git,figma,postman&perline=10" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence and Machine Learning concepts and implementations.
-
----
-
-## 💬 Ask Me About
-
-- MERN Full Stack Development  
-- Java Core & Spring Boot  
-- Python & Flask/Django  
-
----
-
-## 📫 How to Reach Me
-
-- Email: <a href="mailto:deven.h.j.patel@gmail.com" style="font-size: 40px; line-height: 40px; vertical-align: middle;">📧</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/devenhjpatel/"><img src="https://github.com/user-attachments/assets/35de3fce-06ba-4c37-b1d9-e16d650a28fa" alt="LinkedIn" width="40" style="vertical-align: middle;"></a>
-- Medium: <a href="https://medium.com/@deven.h.j.patel" style="font-size: 40px; line-height: 40px; vertical-align: middle;">Ⓜ️</a>
-
----
-
-## 💻 Languages & Tools
-
-<p align="center">
-  <p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJS" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40" style="background:#fff; border-radius:50%; padding:4px;" />
-  </a>
-</p>
-
-</p>
+- Building intelligent apps with **AI/LLMs**, **LangChain**, and **Next.js Server Actions**  
+- Cloud infrastructure & DevOps automation using **AWS**, **Docker**, and **CI/CD pipelines**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devenpatel19&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devenpatel19&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devenpatel19&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devenpatel19&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devenpatel19" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devenpatel19&theme=default" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:deven.h.j.patel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/devenhjpatel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://medium.com/@deven.h.j.patel">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=for-the-badge&logo=medium" alt="Medium Badge" />
+  </a>
+</p>
+
+---
+
+⭐️ *“Let’s automate lending—brilliantly.”*
