@@ -22,7 +22,7 @@ I build tools that streamline workflows, automate repetitive tasks, and empower 
 
 💻 Always building | 🧠 Always learning | 🤝 Always collaborating  
 
-> 🌐 Explore my work: [https://portfolio-app-sigma-swart-49.vercel.app/](https://portfolio-app-sigma-swart-49.vercel.app/)
+> 🌐 Explore my work: [My Portfolio](https://portfolio-app-sigma-swart-49.vercel.app/)
 
 ---
 
@@ -32,9 +32,9 @@ I build tools that streamline workflows, automate repetitive tasks, and empower 
 Real-time analytics dashboard visualizing Seattle’s tech job market.  
 Built with **Next.js**, **Recharts**, and **Tailwind CSS** — integrates APIs for live job and salary data.  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/DevenPatel19/portfolio/blob/main/src/project-screenshots/dashboard.jpg" alt="Seattle Tech Dashboard" width="600"/>
-</p>
+</p> -->
 
 ---
 
@@ -97,4 +97,4 @@ Focuses on scalability, modular architecture, and modern UI/UX with reusable com
 
 ---
 
-⭐️ *“Let’s automate lending—brilliantly.”*
+⭐️ *“Let’s automate whatever we want — brilliantly.”*
