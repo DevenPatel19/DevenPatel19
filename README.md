@@ -40,7 +40,7 @@ Built with **Next.js**, **Recharts**, and **Tailwind CSS** — integrates APIs f
 
 ### 🪄 [Therawizard](https://github.com/DevenPatel19/therawizard)
 A gamified mindfulness app that transforms coping techniques into “magic casting” activities.  
-Built with **React**, **Flask**, and **MongoDB**, featuring secure authentication and animated user flows.
+Built with **React**, **DaisyUI**, and **MongoDB**, **Framer Motion** featuring secure authentication and animated user flows.
 
 ---
 
