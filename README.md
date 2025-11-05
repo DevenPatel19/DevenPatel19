@@ -1,9 +1,15 @@
 <h1 align="center">👋 Hi, I'm Deven Patel</h1>
-<h3 align="center">Full-Stack Developer | Seattle, WA</h3>
+<h3 align="center">Full-Stack Developer | Career Transformer | Seattle, WA</h3>
 
 <p align="center">
   <a href="https://portfolio-app-sigma-swart-49.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-blue?style=for-the-badge" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-blue?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/devenhjpatel/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:swedevpatel+githubcontact@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Me-red?style=for-the-badge" alt="Email" />
   </a>
 </p>
 
@@ -15,86 +21,149 @@
 
 ## 🚀 About Me
 
-I’m a former **mortgage operations leader turned software developer**, passionate about solving real-world business problems through technology.  
-With over 10 years of experience in operations and 22 months of freelancing as a developer, I bring a unique mix of **strategic insight** and **technical execution**.  
+I'm a **former mortgage operations leader turned full-stack developer**, passionate about building applications that solve real problems and create meaningful impact. With **10+ years in business operations** and **2 years of technical execution**, I bridge the gap between strategic vision and technical implementation.
 
-I build tools that streamline workflows, automate repetitive tasks, and empower teams—using modern stacks like **Next.js**, **TypeScript**, **Spring Boot**, and **Python/Flask**.
+**🎯 My Focus:** Full-stack development, healthcare technology, and creating engaging user experiences that make a difference.
 
-💻 Always building | 🧠 Always learning | 🤝 Always collaborating  
+**💡 Recent Achievement:** Successfully deployed my first full-stack application to production in just 2 weeks, demonstrating rapid learning and execution capabilities.
 
-> 🌐 Explore my work: [My Portfolio](https://portfolio-app-sigma-swart-49.vercel.app/)
-
----
-
-## 📌 Featured Projects
-
-### 🧭 [Seattle Tech Insights Dashboard](https://seattle-tech-dashboard-ziwd.vercel.app/)
-Real-time analytics dashboard visualizing Seattle’s tech job market.  
-Built with **Next.js**, **Recharts**, and **Tailwind CSS** — integrates APIs for live job and salary data.  
-
-<!-- <p align="center">
-  <img src="https://github.com/DevenPatel19/portfolio/blob/main/src/project-screenshots/dashboard.jpg" alt="Seattle Tech Dashboard" width="600"/>
-</p> -->
+> 🌐 **Explore my work:** [My Portfolio](https://portfolio-app-sigma-swart-49.vercel.app/)
 
 ---
 
-### 🪄 [Therawizard](https://github.com/DevenPatel19/therawizard)
-A gamified mindfulness app that transforms coping techniques into “magic casting” activities.  
-Built with **React**, **DaisyUI**, and **MongoDB**, **Framer Motion** featuring secure authentication and animated user flows.
+## 🏆 Featured Projects
+
+### 🧠 [Spellweaver Journal - Production Deployment](https://spellweaver-frontend.onrender.com)
+**Full-Stack Therapeutic Platform | React · Node.js · MongoDB · Render.com**
+
+A mental wellness platform that transforms therapeutic techniques into engaging "spells," featuring role-based access, real-time progress tracking, and secure therapist-patient management.
+
+**🚀 Production Highlights:**
+- ✅ **Full-stack deployment** on Render.com with separate services
+- ✅ **Cloud database** migration to MongoDB Atlas
+- ✅ **Production security** with JWT, CORS, and rate limiting
+- ✅ **Complete CI/CD pipeline** with infrastructure as code
+
+**Live Demo:** [spellweaver-frontend.onrender.com](https://spellweaver-frontend.onrender.com)  
+**Source Code:** [GitHub Repository](https://github.com/DevenPatel19/TherawizardFS)
+
+---
+
+### 📊 [Seattle Tech Insights Dashboard](https://seattle-tech-dashboard-ziwd.vercel.app/)
+**Real-time Analytics Platform | Next.js · TypeScript · Tailwind CSS**
+
+Interactive dashboard visualizing Seattle's tech job market with live API integration, data visualization, and responsive design.
+
+**Tech Stack:** Next.js, Recharts, Tailwind CSS, Adzuna API  
+**Live Demo:** [seattle-tech-dashboard-ziwd.vercel.app](https://seattle-tech-dashboard-ziwd.vercel.app/)
 
 ---
 
 ### 🛍️ [SMBCore Store](https://github.com/DevenPatel19/store)
-A full-stack e-commerce platform integrating **Spring Boot**, **React**, and **MySQL**.  
-Focuses on scalability, modular architecture, and modern UI/UX with reusable components.
+**Full-Stack E-commerce Platform | Spring Boot · React · MySQL**
+
+Scalable e-commerce solution with modular architecture, modern UI/UX, and comprehensive product management.
+
+**Tech Stack:** Spring Boot, React, MySQL, RESTful APIs
 
 ---
 
-## 🧠 Tech Stack
+## 💻 Technical Expertise
 
+### Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,python,flask,java,spring,js,html,css,nodejs,express,mongodb,mysql,aws,docker,git,figma,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,html,css,tailwind,redux&perline=8" />
+</p>
+
+### Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,flask,mongodb,mysql,postgres&perline=9" />
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma,vercel,render&perline=8" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 📈 GitHub Analytics
 
-- Building intelligent apps with **AI/LLMs**, **LangChain**, and **Next.js Server Actions**  
-- Cloud infrastructure & DevOps automation using **AWS**, **Docker**, and **CI/CD pipelines**
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=devenpatel19&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devenpatel19&show_icons=true&theme=default&hide_border=true&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devenpatel19&theme=default&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Currently Building & Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devenpatel19&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
-</p>
+### 🚀 Active Development
+- **Production Deployment Strategies** - CI/CD, monitoring, and optimization
+- **Healthcare Technology** - Mental health applications and secure data handling
+- **Full-Stack Architecture** - Scalable system design and performance optimization
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devenpatel19&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devenpatel19&theme=default" alt="GitHub Streak" />
-</p>
+### 📚 Skill Development
+- **AI/LLM Integration** - Building intelligent applications with modern AI tools
+- **Cloud Infrastructure** - AWS services and DevOps automation
+- **Advanced React Patterns** - State management and performance optimization
 
 ---
 
-## 🤝 Connect With Me
+## 🏅 Professional Highlights
+
+### Career Transformation
+- **Mortgage Operations Leader** → **Full-Stack Developer**
+- **10+ Years Business Experience** + **Technical Execution Skills**
+- **Rapid Project Delivery** - Production deployment in 2-week cycles
+
+### Technical Achievements
+- **Full-Stack Deployment** - End-to-end application lifecycle management
+- **Production Security** - JWT, CORS, rate limiting, and environment security
+- **Database Management** - MongoDB Atlas migration and optimization
+- **Problem Solving** - Complex deployment challenge resolution
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:swedevpatel+githubcontact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Badge" />
-  </a>
   <a href="https://www.linkedin.com/in/devenhjpatel/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@deven.h.j.patel">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=for-the-badge&logo=medium" alt="Medium Badge" />
+  <a href="mailto:swedevpatel+githubcontact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Collaborate%20Together-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://portfolio-app-sigma-swart-49.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-See%20More%20Work-green?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-⭐️ *“Let’s automate whatever we want — brilliantly.”*
+## 📊 Project Impact
+
+### Healthcare Technology
+- **Spellweaver Journal**: Making mental health practices more accessible and engaging through innovative UI/UX
+- **Therapeutic Innovation**: Transforming coping techniques into engaging "spell-casting" experiences
+
+### Business Operations
+- **Operations Background**: Understanding real-world business problems and technical solutions
+- **Strategic Insight**: Bridging technical execution with business objectives
+
+---
+
+⭐️ *"From mortgage operations to full-stack development – building solutions that make a real impact."*
